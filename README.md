@@ -4,9 +4,9 @@
 Simple Pong Game built using [Zig](https://ziglang.org/) and [RayLib](https://www.raylib.com/index.html).
 
 ## How to play:
-Head over to the releases tab to download and play the game! 
+Head over to the releases tab to download the zip. Then unzip the archive and run the corresponding executable depending on your system. 
 > [!Note] 
-> Running the executable currently only supports Linux due to Odin not having Windows or Mac cross compilation yet. 
+> Running the executable currently only supports Linux and Windows 64 bit systems.
 
 ### Controls:
 - W and S to move the left paddle up and down.
